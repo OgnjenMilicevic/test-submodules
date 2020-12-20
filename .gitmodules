@@ -1,0 +1,3 @@
+[submodule "gatk4-exome-analysis-pipeline"]
+	path = gatk4-exome-analysis-pipeline
+	url = https://github.com/OgnjenMilicevic/gatk4-exome-analysis-pipeline.git
